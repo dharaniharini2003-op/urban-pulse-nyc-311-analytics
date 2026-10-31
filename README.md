@@ -140,9 +140,13 @@ urban-pulse-nyc-311-analytics/
 ### 👩‍💻 Author
 **Dharani Bommi K**
 
-M.Sc. Microbiology | Aspiring Data Analyst
+M.Sc. Microbiology 
 
 ### ⭐ Acknowledgement
 Dataset: NYC 311 Service Requests.
+
+## 📸 Dashboard Preview
+
+![URBAN PULSE Dashboard](urban-pulse-dashboard.png)
 
 Developed as a data analytics portfolio project using Python, MySQL, and Streamlit.
