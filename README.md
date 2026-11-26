@@ -2,10 +2,6 @@
 
 An interactive data analytics dashboard built using Python, SQL concepts, Pandas, Plotly and Streamlit to investigate New York City's 311 service requests.
 
-## 🚀 Live Dashboard
-
-**Streamlit App:** Add your permanent Streamlit Community Cloud URL here after deployment.
-
 ## 📌 Project Overview
 
 URBAN PULSE is a data analytics project designed to analyze NYC 311 service request data and understand public complaint patterns, agency workload, borough-wise demand, resolution performance and geographical complaint concentration.
