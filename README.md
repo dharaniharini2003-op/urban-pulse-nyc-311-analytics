@@ -1,6 +1,27 @@
 # 🏙️ URBAN PULSE
 ## NYC 311 Complaint Intelligence & Resolution Analytics
 
+## 📊 Project Dashboard Results
+
+The URBAN PULSE dashboard provides 15 core analyst investigations using NYC 311 service request data.
+
+### Key Results
+- Total distinct requests: 75,139
+- Recorded closed requests: 51,343
+- Closure rate: 68.33%
+- Valid resolution records: 53,172
+- Median resolution duration: 2.50 hours
+- IQR outliers: 7,273
+- Usable geographic coordinates: 73,952
+
+### Dashboard Features
+- Interactive date range selection
+- Borough and agency filters
+- 15 individual analyst investigations
+- Interactive Plotly visualizations
+- Dynamic analyst interpretations
+- Final analytical summary
+
 ### 📌 Project Overview
 URBAN PULSE is an interactive data analytics dashboard developed to analyze New York City 311 service requests. It helps explore complaint patterns, borough-wise distributions, agency workloads, geographical locations, and complaint resolution times.
 
